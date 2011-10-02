@@ -1,10 +1,8 @@
 Installation
 ------------
 
-   Copy the contents of vim/ftplugin/ to your ~/.vim/ftplugin directory.
-
-       (Assuming your current dir is sparkup/vim/)
-       $ cp -R ftplugin ~/.vim/
+       (Assuming your current dir is ~/.vim/)
+       $ git clone https://github.com/emilkje/sparkup-bundle bundle/sparkup
 
 Configuration
 -------------
